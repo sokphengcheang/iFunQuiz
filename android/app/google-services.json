@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128904908765",
+    "project_id": "ifunquiz",
+    "storage_bucket": "ifunquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128904908765:android:4732d747f9b591209a7034",
+        "android_client_info": {
+          "package_name": "com.ifun.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0J1uIGLQ90FDMz1rOcf2hCvf8KnJQonU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
